@@ -1,0 +1,23 @@
+{
+  "name": "portfolio_baru",
+  "version": "1.0.0",
+  "description": "my new portfolio 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurniawan2805/portfolio_baru.git"
+  },
+  "keywords": [
+    "portfolio",
+    "responsive"
+  ],
+  "author": "Adi Kurniawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurniawan2805/portfolio_baru/issues"
+  },
+  "homepage": "https://github.com/kurniawan2805/portfolio_baru#readme"
+}
